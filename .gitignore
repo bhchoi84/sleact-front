@@ -1,0 +1,19 @@
+# node_modules
+node_modules
+
+# 배포 모듈
+dist/*
+
+# 로그
+.log
+
+# vcs 파일 ( intelij )
+vcs.xml
+
+# module.xml  ( intelij )
+modules.xml
+
+# iml
+sleact-front.iml
+
+

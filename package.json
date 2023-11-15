@@ -4,16 +4,25 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "@types/react": "^17.0.2",
+    "@types/react-dom": "^17.0.1",
     "js-tokens": "^4.0.0",
     "loose-envify": "^1.4.0",
     "object-assign": "^4.1.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "scheduler": "^0.20.2"
+    "scheduler": "^0.20.2",
+    "typescript": "^4.1.5"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-prettier": "^7.2.0",
+    "eslint-plugin-prettier": "^3.3.1",
+    "prettier": "^2.2.1"
+  }
 }
